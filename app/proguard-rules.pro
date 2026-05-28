@@ -1,0 +1,6 @@
+-dontwarn org.tensorflow.lite.gpu.GpuDelegateFactory$Options
+-dontwarn org.tensorflow.lite.gpu.GpuDelegateFactory$Options$GpuBackend
+-keep class org.tensorflow.lite.gpu.** { *; }
+-keep class org.tensorflow.lite.** { *; }
+-keep class com.google.mlkit.** { *; }
+-dontwarn com.google.mlkit.**

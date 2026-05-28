@@ -1,0 +1,1 @@
+/home/sti/.trae-skills/superpowers/_TRAE_ADAPTER.md
